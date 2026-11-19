@@ -5,6 +5,9 @@ A full-stack website for **Mr. Sweet Home LLC**, a residential remodeling compan
 
 Built with **React** on the front end and a **Node.js / Express** API that receives and validates quote requests.
 
+**🔗 Live demo:** [mr-sweet-home.onrender.com](https://mr-sweet-home.onrender.com)
+<sub>Hosted on Render's free tier — the first load after inactivity can take up to a minute.</sub>
+
 ![Mr. Sweet Home website](docs/screenshot.png)
 
 ## Features
