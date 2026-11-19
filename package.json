@@ -1,0 +1,12 @@
+{
+  "name": "mr-sweet-home",
+  "private": true,
+  "description": "Website for Mr. Sweet Home LLC — React frontend + Node.js/Express API",
+  "workspaces": ["client", "server"],
+  "scripts": {
+    "dev": "npm run dev --workspace server & npm run dev --workspace client",
+    "build": "npm run build --workspace client",
+    "start": "npm start --workspace server",
+    "test": "npm test --workspace server"
+  }
+}
